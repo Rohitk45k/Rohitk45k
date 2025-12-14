@@ -1,59 +1,104 @@
 <h1 align="center">Hi there 👋, I'm Rohit</h1>
 
 <h3 align="center">
-A passionate Tech Lover & Aspiring Web Developer 🚀
+🐍 Python & Django Developer | Backend Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer+in+Progress;Learning+React+%26+Node.js;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=44C2FD&center=true&vCenter=true&width=650&lines=Python+%7C+Django+Developer;MySQL+%7C+REST+APIs;HTML+CSS+JavaScript;NumPy+%7C+Pandas+%7C+DRF+(Basic);Always+Learning+%26+Building" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **Web Development**
-- 💻 Interested in **Frontend Development & UI Design**
-- 🛠️ Exploring **JavaScript, React, Git & GitHub**
-- 🎯 Goal: Become a **Full-Stack Developer**
-- ⚡ Fun fact: I love memes 😄
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/>
-  </a>
-</p>
+- 🐍 Python Developer focused on **Django backend development**
+- 🌐 Experience with **HTML, CSS & JavaScript**
+- 🗄️ Working with **MySQL databases**
+- 🔌 Building **REST APIs using Django REST Framework (Basic)**
+- 📊 Data handling using **NumPy & Pandas**
+- 🌱 Currently improving **backend architecture & APIs**
+- ⚡ Fun fact: I enjoy solving backend problems 😄
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,js,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohitk45k&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+## 🧩 Frameworks & Libraries
+- ⚙️ **Django**
+- 🔌 **Django REST Framework (Basic)**
+- 📊 **NumPy**
+- 📈 **Pandas**
 
+---
+
+## 📂 What I Build
+- 🔐 Backend systems with Django
+- 🌐 RESTful APIs
+- 🗄️ Database-driven applications
+- 📊 Data processing scripts
+- 🧪 Small automation tools
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitk45k&theme=github-dark&hide_border=true" />
+  <a href="https://linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Rohitk45k" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:kamblerohit5037@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
+---
+
+## 🚀 Project Showcase (Django Apps)
+
+### 🧾 Django Blog Application
+- 🐍 Built with **Django**
+- 🔐 User Authentication (Login / Register)
+- ✍️ Create, Edit & Delete Posts
+- 🌐 Responsive UI using **HTML, CSS, JavaScript**
+- 🔌using **Python with Framework Django**
+
+🔗 **Repository:** https://github.com/Rohitk45k/django-blog-app
+
+---
+
+### 🛒 Django E-Commerce Application
+- 🐍 Backend powered by **Django**
+- 🗄️ **MySQL** database integration
+- 🛍️ Product listing & cart system
+- 👤 User authentication
+- 📦 Order management
+- 🌐 Frontend using **HTML, CSS & JavaScript**
+
+🔗 **Repository:** https://github.com/Rohitk45k/django-ecommerce
+
+---
+
+### 📊 Data Analysis Dashboard (Django + Pandas)
+- 📈 Data processing using **NumPy & Pandas**
+- 🐍 Django backend
+- 📊 Simple data visualization
+- 🗄️ MySQL database support
+- 🔌 Basic REST APIs
+
+🔗 **Repository:** https://github.com/Rohitk45k/django-data-dashboard
+
+---
+
+
+
 
 ## 📌 Top Languages
 <p align="center">
@@ -62,18 +107,10 @@ A passionate Tech Lover & Aspiring Web Developer 🚀
 
 ---
 
+
 ## 📈 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohitk45k&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## ☕ Support Me
-<p align="center">
-  <a href="https://buymeacoffee.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Rohitk45k&label=Profile%20Views&color=44C2FD&style=flat" />
 </p>
 
 ---
